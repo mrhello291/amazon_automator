@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+playwright
+openai
+google-generativeai
+python-dotenv
